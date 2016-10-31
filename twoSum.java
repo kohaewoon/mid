@@ -21,3 +21,5 @@ public class twoSum {
 		return result;
 	    }
 }
+// Please read the question description carefully;
+// you shoud return the COUNT of pairs that add up to the target number
