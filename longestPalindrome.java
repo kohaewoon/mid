@@ -27,5 +27,7 @@ public class longestPalindrome {
 	    return longest;
 	}
 }
+// The given return type is int, not String, you're not allowed to change it.
+// -2;
 
 
